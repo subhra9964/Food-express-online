@@ -1,0 +1,150 @@
+@media (min-width: 1400px) {
+  .offer-rel .offer-bg-img {
+    position: absolute;
+    top: -175px !important;
+  }
+}
+@media (max-width: 1199px) {
+  .offer-rel .offer-bg-img {
+    position: absolute;
+    top: -100px !important;
+  }
+}
+@media (max-width: 991px) {
+  .banner h1 {
+    font-size: 45px !important;
+  }
+  .top-heading span {
+    font-size: 50px;
+    display: block;
+    top: 60px;
+  }
+  .top-heading h2 {
+    font-size: 32px !important;
+  }
+  .top-heading p {
+    font-size: 14px;
+  }
+  .simple-way-to-order-content {
+    padding: 40px 0px;
+    text-align: center;
+  }
+  .offer-rel .offer-bg-img {
+    position: absolute;
+    top: 37px !important;
+  }
+  .delicious-img {
+    text-align: center;
+  }
+  .delicious-img img {
+    width: 100%;
+  }
+  .delicious-dish {
+    padding-top: 70px;
+  }
+}
+
+@media (max-width: 767px) {
+  section {
+    padding: 40px 0;
+  }
+  .top-heading h2 {
+    font-size: 26px !important;
+    text-align: center;
+  }
+  .top-heading p {
+    font-size: 14px !important;
+    text-align: center;
+  }
+  .top-heading span {
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    top: 40px;
+  }
+  .banner {
+    text-align: center;
+    padding-bottom: 0;
+  }
+  header nav .nav-right a.btnn {
+    font-size: 15px;
+    padding: 4px 10px;
+  }
+  header .logo img {
+    max-width: 160px !important;
+  }
+  header .nav-right img {
+    display: none;
+  }
+  .banner h1 {
+    font-size: 30px !important;
+  }
+  .banner .btnn {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  .how-it-works {
+    padding-bottom: 40px;
+  }
+
+  .simple-way-order-imgs {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: initial;
+  }
+  .simple-way-to-order-content {
+    padding: 40px 0px;
+    text-align: center;
+  }
+  .offer-rel .offer-bg-img {
+    position: initial;
+    margin-top: 50px;
+  }
+  .offer-bg {
+    padding-bottom: 0;
+  }
+  .offer-bg {
+    text-align: center;
+  }
+  .delicious-dish-inner-content {
+    text-align: center;
+  }
+  .del-dish-right {
+    margin-left: 0px;
+  }
+  .delicious-dish .top-heading span {
+    font-size: 40px;
+  }
+  .delicious-dish-inner-content .icon {
+    margin: auto;
+  }
+  .app .top-heading {
+    text-align: center;
+  }
+  .app .top-heading span {
+    font-size: 50px;
+    top: 30px;
+  }
+
+  .btnn {
+    background: #f29f05!important;
+  }
+  .btnn:hover {
+    background: #f29f05!important;
+  }
+  .footer h2 {
+    font-size: 26px;
+  }
+  .footer {
+    padding: 40px 0;
+  }
+  .footer-content h4 {
+    font-size: 20px;
+  }
+  .footer-content ul li a {
+    font-size: 14px;
+  }
+}
